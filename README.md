@@ -1,1 +1,4 @@
 # study
+
+### Likelihood
+https://www.youtube.com/watch?v=XhlfVtGb19c
